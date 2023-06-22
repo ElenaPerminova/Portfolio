@@ -43,7 +43,7 @@
 
 <p>Как решала: посчитала юнит-экономику продукта и предложила сценарий по настройке параметров для выхода на 25-процентную маржинальность, собрала наглядную визуализацию, где показано, кто, где и в каком объеме смотрит фильмы на платформе<p>
 
-> <a href="https://drive.google.com/drive/folders/11HcEeqniyrCMjuwHZ0GLysX0A2SEv-_x">Ссылка на проект</a>
+> <a href="https://docs.google.com/presentation/d/1oYW24-9r39_-IS57BKrm-SK6jSEGH1Ez/edit?usp=sharing&ouid=101188750187350314229&rtpof=true&sd=true">Ссылка на проект</a>
  
 <p>Выводы (итоги):<p>
 <ol>
@@ -64,7 +64,7 @@
   <li>Задача №2: для каждого партнера рассчитала, какой процент клиентов дошел до второй покупки, до третьей покупки и т. д., используя конструкцию sum(case when…); нарисовала график, на котором каждая линия показывает своего партнера<p>
 </ol>
 
-> <a href="https://drive.google.com/drive/folders/1wdD-mfSeIsHWgrMLJz8Tv_ClAuP_EAOQ?usp=sharing">Ссылка на проект</a>
+> <a href="https://drive.google.com/drive/folders/1ehd2LtsLStZdN7bgDMPloEhFrNackVLl?usp=sharing">Ссылка на проект</a>
 
   <p>Выводы (итоги):<p>
 <ol>
@@ -78,7 +78,7 @@
   
 <p>Как решала: взяла таблицу skybank.late_collection_clients и написала скрипт, который сделает витрину<p>
 
-> <a href="https://drive.google.com/drive/folders/1QOk5AAh6x7jK_yHgfKI2sUFYR7AWUi5u">Ссылка на проект</a>
+> <a href="https://docs.google.com/document/d/15MZz-LdCBFO1yTPCOfLVXVXvjIsr8tAc/edit?usp=sharing&ouid=101188750187350314229&rtpof=true&sd=true">Ссылка на проект</a>
   
  <p>Выводы (итоги):<p>
 <ol>
@@ -96,7 +96,7 @@
 
 <p>Как решала(-а): написала код в SQL с использованием подзапросов<p>
 
-> <a href="https://github.com/Skyproportfolio/data-analytics-5month/blob/main/Проект%205.xlsx">Ссылка на проект</a>
+> <a href="https://drive.google.com/drive/folders/1LTYRM11b8yLPJvnzGlbOFF8uJCrZlVBC?usp=sharing">Ссылка на проект</a>
  
  <p>Выводы (итоги):<p>
 <ol>
